@@ -1,59 +1,59 @@
 <div align="center">
 	<h3>👧🏻KAYA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
+<img src="https://i.ibb.co/7v2y5Pg/dacd47de2cf1a5ac.jpg" width="300" height="150">
 </div>
 <p align="center">
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/sadiyamin/Lara-MD">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsadiyamin%2FLara-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/sadiyamin/Lara-MD/fork">
-    <img src="https://img.shields.io/github/forks/sadiyamin/Lara-MD?label=Fork&style=social">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT/fork">
+    <img src="https://img.shields.io/github/forks/Kaya2005/KAYA_MD-BOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/sadiyamin/Lara-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/sadiyamin/Lara-MD?style=social">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT/stargazers">
+    <img src="https://img.shields.io/github/stars/Kaya2005/KAYA_MD-BOT?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
-    <img src="https://img.shields.io/github/repo-size/sadiyamin/Lara-MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT">
+    <img src="https://img.shields.io/github/repo-size/Kaya2005/KAYA_MD-BOT?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
-    <img src="https://img.shields.io/github/license/sadiyamin/Lara-MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT">
+    <img src="https://img.shields.io/github/license/Kaya2005/KAYA_MD-BOT?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
-    <img src="https://img.shields.io/github/languages/top/sadiyamin/Lara-MD?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT">
+    <img src="https://img.shields.io/github/languages/top/Kaya2005/KAYA_MD-BOT?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/sadiyamin/Lara-MD">
+  <a href="https://github.com/Kaya2005/KAYA_MD-BOT">
     <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94779062397">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Lara%20MD%20BOT-purple&style=plastic">
+  <a href="https://wa.me/243823661981">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-kaya%20MD%20BOT-purple&style=plastic">
 
   </a>
 </p>
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+KAYA+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+kaya-MD...;Created+by+Herve...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Kaya-MD..."
             alt="Typing">
 
 <div align="center">
