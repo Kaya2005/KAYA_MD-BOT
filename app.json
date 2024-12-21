@@ -1,0 +1,30 @@
+{
+  "name": "𝙆𝘼𝙔𝘼♱𝙈𝘿",
+  "description": "𝙆𝘼𝙔𝘼♱𝙈𝘿 Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝒉𝒆𝒓𝒗𝒆 𝒌𝒂𝒚𝒂 · · ·",
+  "logo": "https://i.ibb.co/7v2y5Pg/dacd47de2cf1a5ac.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": "public"
+    },  
+    
+    "MONGODB": {
+      "description": "put the your mongodb database url",
+      "required": true,
+      "value": "mongodb+srv://laramd:sadeesha2006@anya.gvsp435.mongodb.net/?retryWrites=true&w=majority&appName=Anya"
+    }
+    
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
